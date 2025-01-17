@@ -41,7 +41,7 @@ If choosing the Custom Layout, indicate the number of rows and columns for your 
 After selecting your layout, you can write the condition of each well.
 
 If needed, you can change the background color of each well. 
-Changing the color under the row number or the column letter will change the color of all the rows or columns, respectively.
+Changing the color under the row letter or the column number will change the color of all the rows or columns, respectively.
 
 If any well is left empty, an NA will be added to the output.
 
