@@ -1,5 +1,9 @@
 # Plate-Planner
-Plate Planner allow the creation of a picture file to keep track of your experiment layouts on different plates
+
+<img align="right" width="180" height="115" src="images/Plate_Planner_Icon.png">
+Plate Planner allows the creation of a picture table to keep track of your experiment layouts on different plates.
+<br />
+<br />
 
 # Installation
 
@@ -34,7 +38,7 @@ In both cases, please don't move the location of the files.
 
 Once opening Plate Planner, choose one of the default plate layouts.
 
-If choosing the Custom Layout, indicate the number of rows and columns for your layout
+If choosing the Custom Layout, indicate the number of rows and columns for your layout.
 
 ![Welcome Window](images/Welcome_Window.png)
 
@@ -53,7 +57,7 @@ After adding all the information, clicking "Save" will create a table. The date 
 
 The file will be named the same as the chosen layout or "Custom Layout".
 
-If a previous layout exist in the saving location with the same name, it will be overwritten.
+If a previous layout exists in the saving location with the same name, it will be overwritten.
 
 ![Example Output](images/Layout_Example.png)
 
