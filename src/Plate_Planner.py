@@ -2,7 +2,7 @@
 import re
 import os
 import string
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 import plotly.graph_objects as go
 from datetime import datetime
 
